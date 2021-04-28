@@ -4,8 +4,7 @@
 
 
 Integrantes:
-José Antonio Del Toro Padilla
-Vicente Daniel Ordaz Olloqui
+José Antonio Del Toro Padilla y Vicente Daniel Ordaz Olloqui
 
 # Getting Started with Create React App
 

@@ -2,6 +2,11 @@
 !!!!!!!---- Instalar React-Bootstrap
 'npm install react-bootstrap bootstrap'
 
+
+Integrantes:
+José Antonio Del Toro Padilla
+Vicente Daniel Ordaz Olloqui
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
